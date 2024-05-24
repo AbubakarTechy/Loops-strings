@@ -1,8 +1,8 @@
-__________________________//FOR LOOP
+____________________//FOR LOOP
 
 __//Print 1 to 5
 for(let i=1; i<=5 ; i++){
-    console.log("Abu bakar rashhed");
+    console.log("Abu bakar rashhed"); //it wil print from 1 to 5
 }
 
 __//Calculate sum of 1 to 5
